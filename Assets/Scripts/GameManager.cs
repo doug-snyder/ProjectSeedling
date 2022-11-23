@@ -15,7 +15,6 @@ public class GameManager : MonoBehaviour
         StartGame();
     }
 
-    // Update is called once per frame
     private void StartGame()
     {
         Debug.Log("StartGame");
