@@ -1,9 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class goHome : MonoBehaviour
 {
-    //public void ChangeScene() => SceneManager.
+    public void ChangeScene() => SceneManager.LoadScene("Scn_Main");
 }

@@ -55,6 +55,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+**/ProjectSettings/BurstAotSettings_StandaloneWindows.json
+**/ProjectSettings/CommonBurstAotSettings.json
 
 # Crashlytics generated file
 crashlytics-build.properties
